@@ -32,4 +32,8 @@
         <object>Release__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <tabSettings>
+        <tab>Release__c</tab>
+        <visibility>Available</visibility>
+    </tabSettings>
 </PermissionSet>
