@@ -1,3 +1,4 @@
 <aura:component implements="lightning:actionOverride,force:hasRecordId">
     <aura:attribute name="recordId" type="String"/>
+    <c:releaseComponent />
 </aura:component>	
